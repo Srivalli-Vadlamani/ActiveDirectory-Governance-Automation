@@ -1,0 +1,5 @@
+FirstName,LastName,Department,Title,City,PostalCode,Manager
+Alex,Morgan,Finance,Financial Analyst,Montreal,H3Z2Y7,manager_fin@corp.local
+Jordan,Lee,IT,Network Analyst,Montreal,H3Z2Y7,manager_it@corp.local
+Taylor,Smith,HR,HR Coordinator,Montreal,H3Z2Y7,manager_hr@corp.local
+Sam,Patel,Operations,Logistics Specialist,Montreal,H3Z2Y7,manager_ops@corp.local
